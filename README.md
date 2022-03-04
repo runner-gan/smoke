@@ -1,1 +1,2 @@
 # smoke
+这是极市平台烟雾检测比赛的baseline以及tensorrtx使用的脚本
